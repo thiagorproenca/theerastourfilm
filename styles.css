@@ -1,7 +1,7 @@
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
+    --botao-azul: #3c92fa;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
     --botao-azul-efeito: #3c92fa;
@@ -22,7 +22,7 @@ body {
 
 .principal {
     background-image: url("kudedlv0tp0_40ecbb.webp");
-    background-repeat: no-repeat;
+    background-repeat:no-repeat;
     background-size: contain;
     align-items: center;
     text-align: center;
